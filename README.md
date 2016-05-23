@@ -1,4 +1,4 @@
-### customGallery
+### Shapes on Canvas
 This is training project with using basics of OOP which is designed to fasten knowledge in this topic.<br>
 
 ## Description
