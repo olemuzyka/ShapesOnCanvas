@@ -12,5 +12,5 @@ Tasks of project:
  * Switching between all elements on Canvas
  * Shapes can be combined into group
  * Create UI buttons:
-   "Clean" to clean Canvas
-   "Help" to calling help with keybindings
+   * "Clean" to clean Canvas
+   * "Help" to calling help with keybindings
